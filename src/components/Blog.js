@@ -11,7 +11,7 @@ const Blog = () => {
             <h3><a href='https://www.newtonschool.co/post/top-13-web-developer-interview-questions'>Web Development Interview questions</a></h3>
             <h3><a href='https://www.newtonschool.co/post/graph-data-structure-explained-with-examples'>Graph Data Structures</a></h3>
            <Link to='./Info'> <button id="blog-to-info"> Go to Info</button></Link>
-           <Link to='./Home'> <button id="blog-to-home"> Go to Home</button></Link>
+           <Link to='./Home'> <button id="home-page"> Go to Home</button></Link>
         </div>
     )
 }
