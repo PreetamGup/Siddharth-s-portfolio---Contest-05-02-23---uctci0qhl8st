@@ -12,7 +12,7 @@ const Info = () => {
             <h2>I am born in India</h2>
             <h2>and I like to play Cricket </h2>
             <Link to='./Blog'> <button id="info-to-blog"> Go to Blog</button></Link>
-            <Link to='./Home'><button id="info-to-home"> Go to Home</button></Link>
+            <Link to='./Home'><span id='home-page'></span><button id="info-to-home"> Go to Home</button></Link>
         </div>
     )
 }
